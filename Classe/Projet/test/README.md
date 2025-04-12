@@ -26,7 +26,7 @@ L’application gère plusieurs rôles :
 
 Chaque utilisateur est défini par un `id`, un `mot de passe` et un `rôle`, tous stockés dans un fichier `utilisateurs.json`.
 
-### 2.2. 🚘 Gestion des voitures des clients
+### 2.2.Gestion des voitures des clients
 Chaque client a un fichier personnel `voitures_client_<id>.json` qui contient ses voitures personnelles. Le client peut :
 - Ajouter une voiture (marque, modèle, année, catégorie, kilométrage, prix estimé)
 - Modifier/supprimer ses véhicules
