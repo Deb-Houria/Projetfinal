@@ -32,8 +32,7 @@ namespace Projet.test
                     default: Console.WriteLine("Choix invalide."); break;
                 }
 
-                Console.WriteLine("\nAppuyez sur une touche pour continuer...");
-                Console.ReadKey();
+                Garage.Pause();
             }
         }
         public void AjouterVoiture()
@@ -81,8 +80,6 @@ namespace Projet.test
                 csv.WriteRecord(v);
                 writer.WriteLine(); 
             }
-
-            Voiture.ConvertirCSVenJSON(); 
             Console.WriteLine("Voiture ajoutée au stock avec succés.");
         }
         public void AjouterPiece()

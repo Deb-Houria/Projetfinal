@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
+using Projet.test;
 
 namespace Projetfinal.Classe.Projet.test
 {
@@ -70,8 +71,7 @@ namespace Projetfinal.Classe.Projet.test
 
             foreach (var r in liste)
             {
-                Console.WriteLine($"{r.DateReparation:jj/mm/aaaa} | {r.Voiture} | {r.TypeIntervention} | {r.CoutEstime} €");
-                Console.WriteLine($"Description : {r.Description}");
+                Garage.AfficherReparation(r);
                 
             }
         }

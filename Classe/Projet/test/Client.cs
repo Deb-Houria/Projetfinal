@@ -66,8 +66,7 @@ namespace Projet.test
                     default: Console.WriteLine("Choix invalide."); break;
                 }
 
-                Console.WriteLine("\nAppuyez sur une touche pour continuer...");
-                Console.ReadKey();
+                Garage.Pause();
             }
         }
 

@@ -46,8 +46,7 @@ namespace Projet.test
                         break;
                 }
 
-                Console.WriteLine("\nAppuyez sur une touche pour continuer...");
-                Console.ReadKey();
+                Garage.Pause();
             }
         }
         private void AfficherVoitures()

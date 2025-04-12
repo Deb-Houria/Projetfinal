@@ -63,8 +63,7 @@ namespace Projet.test
                     default: Console.WriteLine("Choix invalide"); break;
                 }
 
-                Console.WriteLine("Appuyez sur une touche pour continuer...");
-                Console.ReadKey();
+                Garage.Pause();
             }
         }
         public static void AjouterAuCSV(Voiture voiture)
@@ -286,8 +285,7 @@ namespace Projet.test
                     default: Console.WriteLine("Choix invalide"); break;
                 }
 
-                Console.WriteLine("Appuyez sur une touche pour continuer...");
-                Console.ReadKey();
+                Garage.Pause();
             }
         }
         public static List<UtilisateurData> LireUtilisateurs()
@@ -394,8 +392,7 @@ namespace Projet.test
                     default: Console.WriteLine("Choix invalide"); break;
                 }
 
-                Console.WriteLine("Appuyez sur une touche pour continuer...");
-                Console.ReadKey();
+                Garage.Pause();
             }
         }
         

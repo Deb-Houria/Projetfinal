@@ -1,4 +1,10 @@
-﻿using Projet.test;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Newtonsoft.Json;
+using Projet.test;
 
 class Program
 {
@@ -54,8 +60,7 @@ class Program
                     break;
             }
 
-            Console.WriteLine("\nAppuyez sur une touche pour retourner au menu principal...");
-            Console.ReadKey();
+            Garage.Pause();
         }
     }
 }
