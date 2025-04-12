@@ -1,0 +1,15 @@
+[
+  {
+    "IdClient": "12",
+    "Voiture": "4",
+    "DescriptionTravaux": "dhshuhoq",
+    "CoutMainOeuvre": 15.0,
+    "Pieces": [
+      "vice",
+      "kdhf",
+      "hri"
+    ],
+    "CoutEstime": 789.0,
+    "EstValide": false
+  }
+]

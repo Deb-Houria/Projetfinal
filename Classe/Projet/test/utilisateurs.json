@@ -1,0 +1,27 @@
+[
+  {
+    "Id": "15",
+    "motdepasse": "houria",
+    "role": "vendeur"
+  },
+  {
+    "Id": "12",
+    "motdepasse": "dady",
+    "role": "client"
+  },
+  {
+    "Id": "7",
+    "motdepasse": "houria",
+    "role": "proprietaire"
+  },
+  {
+    "Id": "7",
+    "motdepasse": "bader",
+    "role": "fournisseur"
+  },
+  {
+    "Id": "27",
+    "motdepasse": "papa",
+    "role": "client"
+  }
+]

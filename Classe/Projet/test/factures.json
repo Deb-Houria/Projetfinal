@@ -1,0 +1,16 @@
+[
+  {
+    "IdClient": "12",
+    "Voiture": "4",
+    "DescriptionTravaux": "dhshuhoq",
+    "CoutMainOeuvre": 15.0,
+    "Pieces": [
+      "vice",
+      "kdhf",
+      "hri"
+    ],
+    "MontantTotal": 789.0,
+    "MoyenPaiement": "carte",
+    "DateFacture": "2025-04-11T06:09:43.810546+02:00"
+  }
+]

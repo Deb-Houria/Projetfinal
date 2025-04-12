@@ -1,0 +1,20 @@
+[
+  {
+    "IdClient": null,
+    "Voiture": "range rover",
+    "TypeIntervention": "mécanique",
+    "Description": "dghi",
+    "CoutEstime": 78.0,
+    "PiecesUtilisees": null,
+    "DateReparation": "0001-01-01T00:00:00"
+  },
+  {
+    "IdClient": null,
+    "Voiture": "mercedes",
+    "TypeIntervention": "vidange ",
+    "Description": "probleme",
+    "CoutEstime": 125.0,
+    "PiecesUtilisees": null,
+    "DateReparation": "0001-01-01T00:00:00"
+  }
+]

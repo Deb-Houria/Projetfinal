@@ -1,0 +1,20 @@
+[
+  {
+    "IdClient": "12",
+    "marque": "lamborgini",
+    "modele": "hzhhjh",
+    "annee": "2012",
+    "categorie": "2013",
+    "kilometrage": 2014,
+    "prix_approximatif": 5632
+  },
+  {
+    "IdClient": "12",
+    "marque": "dacia",
+    "modele": "rzhr",
+    "annee": "2018",
+    "categorie": "639",
+    "kilometrage": 58566,
+    "prix_approximatif": 78965
+  }
+]
