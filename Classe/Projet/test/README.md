@@ -59,7 +59,6 @@ Une facture inclut :
 
 Les factures sont sauvegardées dans `factures.json', avec un champ pour le statut de paiement (payée/en attente).
 
----
 
 ## 2.6. Stockage des données de l'application
 Toutes les entités sont stockées dans des fichiers **JSON** :
